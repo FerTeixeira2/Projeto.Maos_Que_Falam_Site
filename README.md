@@ -1,4 +1,4 @@
-# Mãos Que Falam - Aprendendo LIBRAS
+# Mãos Que Falam - Aprendendo LIBRAS Feito em React + TypeScript
 
 Aplicativo web para ensino de LIBRAS (Língua Brasileira de Sinais) desenvolvido com React, TypeScript e preparado para integração com backend Node.js.
 
@@ -266,4 +266,5 @@ Este projeto é privado.
 ## 👥 Contribuição
 
 Este é um projeto privado. Para contribuições, entre em contato com os mantenedores.
+
 
